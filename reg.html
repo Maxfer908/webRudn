@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link rel="stylesheet" href="./css.css">
+</head>
+<body>
+
+<!--Form-->
+<form onSubmit="return FormValidation();">
+    <div>
+        <div class="title">Register</div>
+        <hr>
+        <div class="BText">Email</div>
+        <div class="form">
+            <input class="form" type="text" placeholder="example@gmail.com" name="email" id="email" required>
+        </div>
+        <div class="BText">Password</div>
+        <div class="form">
+            <input class="form" type="password" placeholder="Enter Password" required>
+        </div>
+        <div class="BText">Repeat Password</div>
+        <div class="form">
+            <input class="form" type="password" placeholder="Repeat Password" required>
+        </div>
+        <hr>
+        <div class="reg"><button type="submit">Register</button></div>
+        <div class="text">Already have an account? <a href="./log.html">Sign in</a>.</div>
+    </div>
+</form>
+<script src="scripts_main.js"></script>
+
+</body>
+</html>

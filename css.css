@@ -1,0 +1,73 @@
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: 300%;
+    text-align: left;
+    padding: 0px 0px 20px 0px;
+}
+.BText {
+    color: black;
+    font-weight: bold;
+    font-size: 100%;
+    text-align: left;
+    padding: 0px 0px 5px 5px;
+}
+.form {
+    padding: 0px 0px 5px 5px;
+}
+.txt {
+    padding: 0px 0px 15px 0px;
+}
+.reg {
+    padding: 0px 0px 15px 0px;
+}
+.MT {
+    color: black;
+    font-weight: bold;
+    font-size: 100%;
+}
+#log {
+    margin: 10px;
+}
+#reg {
+    margin: 10px;
+}
+#qiz {
+    margin: 10px;
+}
+#qizT {
+    padding: 0px 0px 100px 10px;
+}
+.but {
+    background-color: #696969;
+}
+
+.but:hover {
+    background-color: #808080;
+}
+
+.but:active {
+    background-color: #A9A9A9;
+}
+.but2 {
+    background-color: #A9A9A9;
+}
+
+.but2:hover {
+    background-color: #A9A9A9;
+}
+
+.but2:active {
+    background-color: #808080;
+}
+.but3 {
+    background-color: #FFFFFF;
+}
+
+.but3:hover {
+    background-color: #808080;
+}
+
+.but3:active {
+    background-color: #000000;
+}
